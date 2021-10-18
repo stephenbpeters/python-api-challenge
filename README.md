@@ -11,4 +11,6 @@ Simple conclusions based on analysis of the data can be found in the Jupyter not
 
 The output from the WeatherPy assignment can be found in that directory under "output_data".
 
-In order to execute the Jupyter Notebooks the user will need to enter their API keys into the "api_keys.py" files.
+In order to execute the Jupyter Notebooks the user will need to enter their API keys into the "api_keys.py" files in both directories.
+
+This project requires the following Python libraries: matplotlib.pyplot, pandas, numpy, requests, gmaps, os, pprint, json, time, scipy.stats
